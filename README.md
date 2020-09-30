@@ -1,5 +1,5 @@
 # Website Down Notifier on Slack
-
+#Don't change anything unless you are 100% sure.......
 
 <img src="https://raw.githubusercontent.com/AndreiD/SlackUptimeMonitor/master/slackmonitor.JPG" alt="slack website up down notifier uptime ping"/>
 
@@ -19,7 +19,7 @@ $service cron restart
 $tail -f /root/uptimenotifier.log
 ~~~~
 
-Note that the script is written in Python3.5.
+Note that the script is written in Python3.5. So you can change according to your version which you use.
 
 ### Step 2 -  Setup the config variables
 
